@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hello Tega
 
 You can use the [editor on GitHub](https://github.com/Tegaphoenix/courseraTega/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
